@@ -1,0 +1,4 @@
+opencage
+requests
+flask
+beautifulsoup4==4.8.2
